@@ -10,7 +10,7 @@ role: PostDoc
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Laboratory of Experimental Prasitology - Ludwig-Maximilians-Universität München
-  url: siegel-lab.de/
+  url: https://www.molpara.vetmed.uni-muenchen.de/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include parasite functional genomics and gene expression control.
